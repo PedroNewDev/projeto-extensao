@@ -2,6 +2,7 @@ Nome do projeto:
   SMARTY Entregas
 
 Objetivo:
+  Criar um delivery focado em cidades pequenas do brasil.
   
 Tecnologias utilizadas:
   
